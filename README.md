@@ -136,7 +136,9 @@ I'm always happy to connect with developers, exchange ideas, and learn from othe
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=tamta-dotcom&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamta-dotcom&label=PROFILE%20VIEWS&color=0E7490&style=for-the-badge" alt="Profile views" />
+</div>
 
 <br /><br />
 
