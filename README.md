@@ -1,206 +1,149 @@
 
-<h1 align="center">Hi 👋, I'm Pankaj Tamta</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Go+%7C+Next.js+%7C+Rust;Building+Modern+Web+Applications;Exploring+Microservices;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+# Hey, I'm Pankaj Tamta 👋
 
-<h3 align="center">💻 Full Stack Developer • ⚙️ Backend Developer • 🚀 Software Engineering Enthusiast</h3>
+### Developer • Problem Solver • Tech Enthusiast
 
-<p align="center">
-  Passionate about building modern applications, exploring backend architecture,<br/>
-  solving real-world problems, and continuously learning new technologies.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things+that+matter;Learning+Go+and+Microservices;Exploring+Rust+and+System+Programming;Turning+ideas+into+projects" alt="Typing SVG" />
+</a>
 
-<p align="center">
+<p>
   <a href="https://github.com/tamta-dotcom">
-    <img src="https://img.shields.io/badge/GitHub-tamta--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-tamta--dotcom-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/pankaj-tamta-028634323/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tamtapankaj1508@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Engineering-blueviolet?style=for-the-badge" alt="Backend Engineering"/>
-  <img src="https://img.shields.io/badge/Open_Source-Interested-success?style=for-the-badge" alt="Open Source"/>
-  <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge" alt="Always Learning"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0E7490,100:2563EB&height=3&section=header" width="100%" alt="divider" />
 
----
+</div>
 
-# 👨‍💻 About Me
+## ✨ About Me
 
-- 💻 Interested in Full Stack and Backend Development
-- 🌱 Learning Go, Next.js, Rust, PostgreSQL, Redis and System Design
-- 🚀 Building a developer dashboard with Go microservices
-- 🦀 Exploring desktop application development with Rust and egui
-- 🤝 Interested in Open Source and collaborative projects
-- 🎯 Goal: Become a Software Engineer and build impactful products
+I'm a developer who enjoys building practical software, exploring new technologies, and understanding how things work under the hood.
 
----
+- 🚀 Building full-stack applications and backend services.
+- 🐹 Learning Go through microservices and API development.
+- 🦀 Exploring Rust and native desktop application development.
+- 🗄️ Working with databases, caching, and application architecture.
+- 🎯 Focused on writing useful code and growing through hands-on projects.
 
-# 🌱 Currently Working On
+## 🛠️ What I'm Building
 
-- 🚀 **DevBoard** — a developer dashboard built with Next.js and Go microservices
-- 🗄️ PostgreSQL, Redis and REST API development
-- 🔐 Authentication and backend architecture
-- 🦀 A Linux-inspired Windows file manager using Rust
-- 📚 Data Structures & Algorithms and System Design
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 DevBoard</h3>
+      <p>A modern developer dashboard built to explore full-stack architecture and Go microservices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📁 Rust File Manager</h3>
+      <p>A Windows file manager inspired by Linux desktop environments, with a clean graphical interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/egui-7C3AED?style=flat-square" alt="egui" />
+        <img src="https://img.shields.io/badge/Desktop_App-64748B?style=flat-square" alt="Desktop application" />
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+## 💻 Tech Stack
 
-# 🎯 2026 Goals
-
-- [ ] Build production-style applications with Go
-- [ ] Understand microservices and distributed systems
-- [ ] Strengthen Next.js and TypeScript skills
-- [ ] Learn Docker and AWS
-- [ ] Build and publish Rust desktop applications
-- [ ] Contribute to Open Source
-- [ ] Prepare for Software Engineering opportunities
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,rust,js,ts,html,css" alt="Go, Rust, JavaScript, TypeScript, HTML and CSS"/>
-</p>
-
-### 🎨 Frontend
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Next.js, React and Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=go,rust,js,ts,html,css" alt="Languages" />
 </p>
 
-### ⚙️ Backend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs" alt="Go and Node.js"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Frontend technologies" />
 </p>
 
-### 🗄️ Database & Cache
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL and Redis"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis" alt="Backend and databases" />
 </p>
 
-### 🔧 Tools & Platforms
+### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Git, GitHub, VS Code, Docker and Linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Developer tools" />
 </p>
 
----
+## 📊 GitHub Overview
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tamta-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamta-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamta-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
----
+<br />
 
-# 📊 GitHub Statistics
+<img width="70%" src="https://streak-stats.demolab.com?user=tamta-dotcom&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamta-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamta-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamta-dotcom&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" />
 
----
+</div>
 
-# 📈 Contribution Graph
+## 🎯 My Current Goals
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamta-dotcom&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
+- [ ] Build and document a production-style Go microservices application.
+- [ ] Improve my understanding of authentication, APIs, and service communication.
+- [ ] Explore Rust GUI development and Windows system integration.
+- [ ] Write cleaner, more maintainable code.
+- [ ] Build projects that demonstrate practical engineering skills.
 
----
+## 🌱 Beyond the Code
 
-# 🚀 Featured Projects
+- 🧩 I enjoy solving problems by building real projects.
+- 🔍 I like exploring how software works behind the scenes.
+- 📚 I believe consistent learning and experimentation make better developers.
 
-### 🔹 DevBoard — Go Microservices Dashboard
+## 🤝 Let's Connect
 
-A full-stack developer dashboard designed to explore microservices, authentication, API development and backend engineering.
+<div align="center">
 
-**Tech Stack:** Go · Next.js · PostgreSQL · Redis
+I'm always happy to connect with developers, exchange ideas, and learn from other builders.
 
-[🔗 Explore My Repositories](https://github.com/tamta-dotcom?tab=repositories)
+<a href="https://github.com/tamta-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/pankaj-tamta-028634323/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:tamtapankaj1508@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+</a>
 
-### 🔹 Rust File Manager
+<br /><br />
 
-A Windows desktop file manager inspired by Linux desktop environments, built with Rust and egui.
+<img src="https://komarev.com/ghpvc/?username=tamta-dotcom&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile views" />
 
-**Tech Stack:** Rust · egui
+<br /><br />
 
-[🔗 Explore My Repositories](https://github.com/tamta-dotcom?tab=repositories)
+<i>"Great things are built one commit at a time."</i>
 
-### 🔹 More Projects
+<br /><br />
 
-Explore my other projects, experiments and development work.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:2563EB&height=110&section=footer" width="100%" alt="Footer banner" />
 
-[📂 View All Repositories](https://github.com/tamta-dotcom?tab=repositories)
-
----
-
-# 🏅 Certifications & Achievements
-
-- 📜 Add your completed certifications here
-- 🏆 Add your hackathon achievements here
-- 🎓 Add your academic and technical accomplishments here
-- 🌍 Add your Open Source contributions here
-
----
-
-# ⚡ Fun Facts
-
-- 💡 I enjoy turning ideas into working applications.
-- 🧠 I like understanding how software works behind the scenes.
-- 🦀 Exploring Rust and Go keeps me curious.
-- 🚀 Every project is an opportunity to learn something new.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/tamta-dotcom">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pankaj-tamta-028634323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tamtapankaj1508@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamta-dotcom&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-# 💬 Developer Quote
-
-<p align="center">
-  <i>"The best way to predict the future is to build it." 🚀</i>
-</p>
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile! Happy coding! ⭐</b>
-</p>
+</div>
